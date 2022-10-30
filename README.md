@@ -1,6 +1,5 @@
-# learning_python
-
-# Syllabus
+# Zero to Hero Python 3 Programming.
+## Syllabus
 
 - Fundamentals
 - Collections
