@@ -1,4 +1,7 @@
 # Zero to Hero Python 3 Programming.
+
+## Link to Materials: <a href="https://drive.google.com/drive/u/0/folders/1qOEywNr6DHcygh6SIjua9uRK8gQI2xmM">Click here to access materials</a>
+
 ## Syllabus
 
 - Fundamentals
