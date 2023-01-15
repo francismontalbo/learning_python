@@ -1,4 +1,4 @@
-# ![image](https://user-images.githubusercontent.com/65653238/212522749-e67eeb54-c942-4e35-a768-8374e61a5237.png) Becoming a Hero: A Python 3 Programming Journey. 🐍💻
+# ![image](https://user-images.githubusercontent.com/65653238/212522749-e67eeb54-c942-4e35-a768-8374e61a5237.png) Becoming a <b><i>Hero</i></b>: A Python Programming Journey 🐍💻
 <p>By: Dr. Francis Jesmar P. Montalbo</p>
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/release/python-380/)
@@ -34,6 +34,4 @@
 - [ ]  Week 17: 
 - [ ]  Week 18:
 
-## Link to Materials: <a href="https://drive.google.com/drive/u/0/folders/1tsO94jUPo-Af6MtYRoDKWjVkxcCcwN3k">-->Click here to access materials<--</a>
-
-##### FOOTNOTE: The course material is updated regularly. It is based and will keep on basing on the current industry standards and practices.🚀
+##### NOTE: The course material is NOT updated regularly. Nontheless, it is based and will keep on basing on the current industry standards and practices.🚀
