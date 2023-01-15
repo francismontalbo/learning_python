@@ -1,7 +1,12 @@
-# ![image](https://user-images.githubusercontent.com/65653238/212522749-e67eeb54-c942-4e35-a768-8374e61a5237.png) Becoming a <b><i>Hero</i></b>: A Python Programming Journey 🐍💻
-<p>By: Dr. Francis Jesmar P. Montalbo</p>
 
-[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/release/python-380/)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/65653238/212522749-e67eeb54-c942-4e35-a768-8374e61a5237.png"/>
+<h1 align="center">BECOMING A 👨‍💻 <b><i>HERO</i></b>
+<br>A 🐍ic Journey </br></p>
+
+<h4 align="center">By: Francis Jesmar P. Montalbo, DIT</h4>
+
+[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/release/python-380/) Prescribed version
 
 ## Greetings
 
