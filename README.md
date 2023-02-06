@@ -20,15 +20,15 @@
 <p>By the end of the course, you will have a strong understanding of the Python programming language and its advanced applications in computer science. You will be able to write efficient and effective code, and will be well prepared to continue your studies or enter the workforce as a computer scientist or developer.💼</p>
 
 ## Course Outline (This is not final)
-- [x] Week 1: Introduction to Python and basic data types
-- [x] Week 2: Control structures and functions
-- [x] Week 3: Error handling and debugging
-- [x] Week 4: Decorators and generators
-- [x] Week 5: Algorithm and complexity analysis
-- [x] Week 6: Recursion
-- [x] Week 7: Object-Oriented Programming
-- [x] Week 8: Advanced data structures
-- [x] Week 9: Modules
+- [x] Week 1: Introduction to Python, basic data types, and Fundamentals
+- [ ] Week 2: Python Built-in Data Structures and Collections
+- [ ] Week 3: 
+- [ ] Week 4: 
+- [ ] Week 5: 
+- [ ] Week 6: 
+- [ ] Week 7: 
+- [ ] Week 8: 
+- [ ] Week 9: 
 - [ ] Week 10:
 - [ ] Week 11: 
 - [ ]  Week 12: 
