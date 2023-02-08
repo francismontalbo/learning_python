@@ -21,8 +21,8 @@
 
 ## Course Outline (This is not final)
 - [x] Week 1: Introduction to Python, basic data types, and Fundamentals
-- [ ] Week 2: Python Built-in Data Structures and Collections
-- [ ] Week 3: 
+- [x] Week 2: Python Built-in Data Structures and Collections
+- [ ] Week 3: Flow Control: Conditions and Loops
 - [ ] Week 4: 
 - [ ] Week 5: 
 - [ ] Week 6: 
