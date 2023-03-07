@@ -24,8 +24,8 @@
 - [x] Week 2: Python Built-in Data Structures and Collections
 - [x] Week 3: Flow Control: Conditions and Loops
 - [x] Week 4: Functions
-- [ ] Week 5: 
-- [ ] Week 6: 
+- [x] Week 5: OOP: Objects and Classes
+- [ ] Week 6: OOP: Inheritance
 - [ ] Week 7: 
 - [ ] Week 8: 
 - [ ] Week 9: 
