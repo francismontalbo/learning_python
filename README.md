@@ -25,8 +25,8 @@
 - [x] Week 3: Flow Control: Conditions and Loops
 - [x] Week 4: Functions
 - [x] Week 5: OOP: Objects and Classes
-- [ ] Week 6: OOP: Inheritance
-- [ ] Week 7: 
+- [x] Week 6: OOP: Inheritance
+- [ ] Week 7: OOP: Inheritance vs Composition vs Aggregation
 - [ ] Week 8: 
 - [ ] Week 9: 
 - [ ] Week 10:
