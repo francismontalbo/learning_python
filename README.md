@@ -27,8 +27,8 @@
 - [x] Week 5: OOP: Objects and Classes
 - [x] Week 6: OOP: Inheritance
 - [ ] Week 7: OOP: Inheritance vs Composition vs Aggregation
-- [ ] Week 8: 
-- [ ] Week 9: 
+- [ ] Week 8: OOP: Abstraction, Encapsulation, and Polymorphism 
+- [ ] Week 9: Python Magic Methods
 - [ ] Week 10:
 - [ ] Week 11: 
 - [ ]  Week 12: 
