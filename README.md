@@ -28,15 +28,15 @@
 - [x] Week 6: OOP: Inheritance
 - [ ] Week 7: OOP: Inheritance vs Composition vs Aggregation
 - [ ] Week 8: OOP: Abstraction, Encapsulation, and Polymorphism 
-- [ ] Week 9: Python Magic Methods
-- [ ] Week 10:
-- [ ] Week 11: 
-- [ ]  Week 12: 
-- [ ]  Week 13: 
-- [ ]  Week 14: 
-- [ ]  Week 15: 
-- [ ]  Week 16: 
-- [ ]  Week 17: 
-- [ ]  Week 18:
+- [ ] Week 9: Python Exception Handling: Try, Except, Else, and Finally 
+- [ ] Week 10: Python Magic Methods
+- [ ] Week 11: Python Modules
+- [ ] Week 12: Python OS and File Handling
+- [ ] Week 13: Decorators and Wrappers
+- [ ] Week 14: Design Patterns
+- [ ] Week 15: Unit Testing
+- [ ] Week 16: Fundamental Algorithms and their Applications
+- [ ] Week 17: Additional Python Coding Techniques
+- [ ] Week 18: Pythonic Coding and Best Practices
 
 ##### NOTE: The course material is NOT updated regularly. Nontheless, it is based and will keep on basing on the current industry standards and practices.🚀
