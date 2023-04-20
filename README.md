@@ -25,7 +25,7 @@
 - [x] Week 3: Flow Control: Conditions and Loops
 - [x] Week 4: Functions
 - [x] Week 5: OOP: Objects and Classes
-- [x] Week 6: OOP: Inheritance
+- [x] Week 6: OOP: Inheritance and Method Resolution Order
 - [x] Week 7: OOP: Inheritance, Association, Aggregation, Composition and Mixins
 - [x] Week 8: OOP: Encapsulation, Polymorphism, and Abstraction
 - [ ] Week 9: Python Exception Handling: Try, Except, Else, and Finally 
