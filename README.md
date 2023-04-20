@@ -26,8 +26,8 @@
 - [x] Week 4: Functions
 - [x] Week 5: OOP: Objects and Classes
 - [x] Week 6: OOP: Inheritance
-- [ ] Week 7: OOP: Inheritance vs Composition vs Aggregation + Mixins
-- [ ] Week 8: OOP: Abstraction, Encapsulation, and Polymorphism 
+- [x] Week 7: OOP: Inheritance, Association, Aggregation, Composition and Mixins
+- [x] Week 8: OOP: Encapsulation, Polymorphism, and Abstraction
 - [ ] Week 9: Python Exception Handling: Try, Except, Else, and Finally 
 - [ ] Week 10: Python Magic Methods
 - [ ] Week 11: Python Modules
