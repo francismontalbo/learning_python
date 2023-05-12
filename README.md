@@ -25,7 +25,7 @@
 - [x] Week 3: Flow Control: Conditions and Loops with added user inputs
 - [x] Week 4: Functions: User-defined, Lambda, Built-in, and callbacks
 - [ ] Week 5: Python Exception Handling: Try, Except, Else, and Finally 
-- [x] Week 6: OOP: Objects and Classes
+- [x] Week 6: OOP: Objects and Classes (Inner, multiple inner)
 - [x] Week 7: OOP: Inheritance and Method Resolution Order
 - [x] Week 8: OOP: Inheritance, Association, Aggregation, Composition and Mixins
 - [x] Week 9: OOP: Encapsulation, Polymorphism, and Abstraction
