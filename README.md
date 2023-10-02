@@ -7,7 +7,7 @@
 
 <h4 align="center">By: Francis Jesmar P. Montalbo, DIT</h4>
 
-[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/release/python-380/) Prescribed version
+[![Python Version](https://img.shields.io/badge/Python-3.9%2B-green.svg)](https://www.python.org/downloads/release/python-390/) Prescribed version
 
 ## Greetings
 
