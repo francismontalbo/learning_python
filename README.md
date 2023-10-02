@@ -3,6 +3,7 @@
   <img src="https://user-images.githubusercontent.com/65653238/212522749-e67eeb54-c942-4e35-a768-8374e61a5237.png"/>
 <h1 align="center">BECOMING A 👨‍💻 <b><i>HERO</i></b>
 <br>A 🐍ic Journey </br></p>
+<strong>Your ⭐ matters! Please do care to share one.</strong>
 
 <h4 align="center">By: Francis Jesmar P. Montalbo, DIT</h4>
 
@@ -23,20 +24,21 @@
 - [x] Week 1: Introduction to Python: Installation and setup, Fundamental syntax, variables, and basic data types
 - [x] Week 2: Python Built-in Data Structures and Collections with Casting
 - [x] Week 3: Flow Control: Conditions and Loops with added user inputs
-- [x] Week 4: Functions: User-defined, Lambda, Built-in, and callbacks
-- [ ] Week 5: Python Exception Handling: Try, Except, Else, and Finally 
-- [x] Week 6: OOP: Objects and Classes (Inner, multiple inner)
-- [x] Week 7: OOP: Inheritance and Method Resolution Order
-- [x] Week 8: OOP: Inheritance, Association, Aggregation, Composition and Mixins
-- [x] Week 9: OOP: Encapsulation, Polymorphism, and Abstraction
-- [ ] Week 10: OOP: Python Magic or Dunder (Double Underscore "__") Methods
-- [ ] Week 11: Python Iterators
-- [ ] Week 12: Built-in and Custom Python Modules
-- [ ] Week 13: Python OS and File Handling
-- [ ] Week 14: Decorators and Wrappers
-- [ ] Week 15: Unit Testing
-- [ ] Week 16: Fundamental Algorithms and their Applications
-- [ ] Week 17: Additional Python Coding Techniques
-- [ ] Week 18: Pythonic Coding and Best Practices
+- [x] Week 4: Functions: User-defined, Lambda, Built-ins, Callbacks, and Higher-Order Functions
+- [x] Week 5: Recursion
+- [x] Week 6: Python Exception Handling: Try, Except, Else, and Finally 
+<!-- - [x] Week 7: OOP: Objects and Classes (Inner, multiple inner)
+- [x] Week 8: OOP: Inheritance and Method Resolution Order
+- [x] Week 9: OOP: Inheritance, Association, Aggregation, Composition and Mixins
+- [x] Week 10: OOP: Encapsulation, Polymorphism, and Abstraction
+- [ ] Week 11: OOP: Python Magic or Dunder (Double Underscore "__") Methods
+- [ ] Week 12: Python Iterators
+- [ ] Week 13: Built-in and Custom Python Modules
+- [ ] Week 14: Python OS and File Handling
+- [ ] Week 15: Decorators and Wrappers
+- [ ] Week 16: Unit Testing
+- [ ] Week 17: Fundamental Algorithms and their Applications
+- [ ] Week 18: Additional Python Coding Techniques
+- [ ] Week 19: Pythonic Coding and Best Practices -->
 
 ##### NOTE: The course material is NOT updated regularly. Nontheless, it is based and will keep on basing on the current industry standards and practices.🚀
