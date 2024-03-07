@@ -22,12 +22,14 @@
 
 ## Course Outline (This is not final)
 - [x] Week 1: Introduction to Python: Installation and setup, Fundamental syntax, variables, and basic data types
-- [x] Week 2: Python Built-in Data Structures and Collections with Casting
-- [x] Week 3: Flow Control: Conditions and Loops with added user inputs
-- [x] Week 4: Functions: User-defined, Lambda, Built-ins, Callbacks, and Higher-Order Functions
-- [x] Week 5: Recursion
-- [x] Week 6: Python Exception Handling: Try, Except, Else, and Finally 
+- [x] Week 2: Python Fundamentals
+- [x] Week 3: Python Built-in Data Structures and Collections with Casting
+- [x] Week 4: Flow Control: Conditions and Loops
+- [x] Week 5: Functions: User-defined, Lambda, Built-ins, Callbacks, and Higher-Order Functions
+- [x] Week 6: Python Exception Handling: Try, Except, Else, and Finally
+- [ ] Week 7: OOP: Objects and Classes
 <!-- - [x] Week 7: OOP: Objects and Classes (Inner, multiple inner)
+- [x] Week 6: Recursion
 - [x] Week 8: OOP: Inheritance and Method Resolution Order
 - [x] Week 9: OOP: Inheritance, Association, Aggregation, Composition and Mixins
 - [x] Week 10: OOP: Encapsulation, Polymorphism, and Abstraction
