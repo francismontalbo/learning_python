@@ -1,54 +1,117 @@
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/65653238/212522749-e67eeb54-c942-4e35-a768-8374e61a5237.png"/>
-<h1 align="center">BECOMING A 👨‍💻 <b><i>HERO</i></b>
-<br>A 🐍ic Journey </br></p>
-<strong>Your ⭐ matters! Please do care to share one.</strong>
+  <img src="https://user-images.githubusercontent.com/65653238/212522749-e67eeb54-c942-4e35-a768-8374e61a5237.png" alt="Python hero banner" width="340" />
+</p>
 
-<h4 align="center">By: Francis Jesmar P. Montalbo, DIT</h4>
+# ⚔️ Becoming a Python Hero
 
-[![Python Version](https://img.shields.io/badge/Python-3.9%2B-green.svg)](https://www.python.org/downloads/release/python-390/) Prescribed version
+**A notebook-driven Python journey for beginners who want to grow from curious learners into confident builders.**
 
-## Greetings
+> Learn slowly. Practice deeply. Write clean code. Build real confidence.
 
-<p>Welcome to your journey of becoming a Python programming hero!</p> 
-<p>This course is designed to give you a solid foundation in the Python programming language and its many advanced applications in the field of computer science and IT.🚀</p>
+## 🚀 Why this repo hits differently
 
-<p>Throughout the course, you will learn the basics of Python programming, including data types, control structures, and functions. You will also delve into more advanced topics and other essentials that will supplement your coding needs.</p>
+This repository is not meant to be a pile of random Python snippets. It is meant to feel like a guided adventure.
 
-<p>In addition to learning the technical aspects of Python, this course will also cover important computer science concepts such as algorithms, data structures, and complexity analysis. You will learn how to use Python to implement these concepts and will apply your knowledge to real-world problems and projects.🤔💻</p>
+Inside these notebooks, students move from:
+- printing their first line of Python
+- to organizing data with collections
+- to making decisions with conditions and loops
+- to designing reusable functions
+- to building object-oriented programs
+- to testing their own code like real developers
 
-<p>By the end of the course, you will have a strong understanding of the Python programming language and its advanced applications in computer science. You will be able to write efficient and effective code, and will be well prepared to continue your studies or enter the workforce as a computer scientist or developer.💼</p>
+The goal is not just to “finish Python.” The goal is to **think clearly, code professionally, and keep leveling up**.
 
-## Course Outline (This is not final)
-- [x] Week 1: Introduction to Python: Installation and setup, Fundamental syntax, variables, and basic data types
-- [x] Week 2: Python Fundamentals
-- [x] Week 3: Python Built-in Data Structures and Collections with Casting
-- [x] Week 4: Flow Control: Conditions and Loops
-- [x] Week 5: Functions: User-defined, Lambda, Built-ins, Callbacks, and Higher-Order Functions
-- [x] Week 6: Python Exception Handling: Try, Except, Else, and Finally
-- [x] Week 7: OOP: Objects and Classes
-- [x] Week 8: Compositions, Aggregations, and Mixins
-- [x] Week 9: Encapsulation, Polymorphism, and Abstraction
-- [x] Week 10: Python File Handling with Python OS
-- [x] Week 11: Python Modules and the Main Function
-- [ ] Week 12: Python File Structuring for Projects
-- [ ] Week 13: Python Magic Methods
-- [ ] Week 14: Comprehensions
-- [ ] Week 15: More Python Techniques and Sample Projects with Libraries
-<!-- - [x] Week 7: OOP: Objects and Classes (Inner, multiple inner)
-- [x] Week 6: Recursion
-- [x] Week 8: OOP: Inheritance and Method Resolution Order
-- [x] Week 9: OOP: Inheritance, Association, Aggregation, Composition and Mixins
-- [x] Week 10: OOP: Encapsulation, Polymorphism, and Abstraction
-- [ ] Week 11: OOP: Python Magic or Dunder (Double Underscore "__") Methods
-- [ ] Week 12: Python Iterators
-- [ ] Week 13: Built-in and Custom Python Modules
-- [ ] Week 14: Python OS and File Handling
-- [ ] Week 15: Decorators and Wrappers
-- [ ] Week 16: Unit Testing
-- [ ] Week 17: Fundamental Algorithms and their Applications
-- [ ] Week 18: Additional Python Coding Techniques
-- [ ] Week 19: Pythonic Coding and Best Practices -->
+## 🧠 What makes these notebooks useful
 
-##### NOTE: The course material is NOT updated regularly. Nontheless, it is based and will keep on basing on the current industry standards and practices.🚀
+These lessons were shaped to be:
+
+- **Gradual** — each notebook starts simple and grows carefully
+- **Connected** — older topics return in newer lessons so they stay alive
+- **Readable** — code examples favor clarity, naming, and structure
+- **Practical** — examples are grounded, reusable, and beginner-safe
+- **Encouraging** — the tone aims to motivate without watering things down
+
+## 🗺️ Recommended learning path
+
+### 1. Foundations
+- `week_1/0001_python_basics.ipynb`
+- `week_2/0002_collections.ipynb`
+- `week_3/0003_ifelifelse.ipynb`
+- `week_3/0003_truthyandfalsies.ipynb`
+- `week_3/0003_Loops.ipynb`
+- `week_4/0004_Functions.ipynb`
+- `week_5/0005 recursion.ipynb`
+- `week_6/try_except.ipynb`
+
+### 2. Object-Oriented Python
+- `week_7/0007 Objects and Classes.ipynb`
+- `week_8/0008 Inheritance Basics.ipynb`
+- `week_9/association.ipynb`
+- `week_9/aggregation.ipynb`
+- `week_9/composition.ipynb`
+- `week_9/mixin..ipynb`
+- `week_x/encapsulation.ipynb`
+- `week_x/polymorphism.ipynb`
+- `week_x/abstraction.ipynb`
+
+### 3. Reinforcement and skill growth
+- `week_x2/unit_test.ipynb`
+- `python_techniques.ipynb`
+
+## 🎯 Best way to use this repo
+
+For each notebook:
+1. read the markdown sections first
+2. run every code cell in order
+3. change at least one value in every major example
+4. predict the output before running the next cell
+5. write one tiny variation of your own before moving on
+
+That is how you stop being a passive reader and start becoming a programmer.
+
+
+## 🧩 Weekly practice notebooks
+
+To help students build problem-solving stamina—not just topic familiarity—the repository now includes a dedicated practice notebook for each week grouping. These are designed for review, exam preparation, debugging practice, and job-style thinking.
+
+- `week_1/0001_practice_python_basics.ipynb`
+- `week_2/0002_practice_collections.ipynb`
+- `week_3/0003_practice_control_flow.ipynb`
+- `week_4/0004_practice_functions.ipynb`
+- `week_5/0005_practice_recursion.ipynb`
+- `week_6/0006_practice_exceptions.ipynb`
+- `week_7/0007_practice_oop_basics.ipynb`
+- `week_8/0008_practice_inheritance.ipynb`
+- `week_9/0009_practice_relationships.ipynb`
+- `week_x/0010_practice_oop_design.ipynb`
+- `week_x2/0011_practice_unit_testing.ipynb`
+
+A good rhythm is to finish the lesson notebook first, then immediately attempt the matching practice notebook while the ideas are still fresh.
+
+## 🛠️ Tools you can use to open the notebooks
+
+- Jupyter Notebook
+- JupyterLab
+- VS Code with the Jupyter extension
+- Google Colab after uploading the files
+
+Recommended Python version: **Python 3.9+**
+
+## 🔥 What students should gain by the end
+
+By working through the notebooks in order, learners should become much more comfortable with:
+- reading Python code
+- explaining what code is doing
+- writing clean beginner-to-intermediate solutions
+- spotting patterns worth turning into functions or classes
+- testing ideas instead of guessing
+- thinking like someone who can build projects, not just copy syntax
+
+## 💥 Final message
+
+You do **not** need to rush to become strong at Python.
+
+You need repetition, curiosity, clean habits, and enough courage to keep editing your code when it does not work the first time.
+
+If you stick with that, you will not just “learn Python.” You will build the mindset of a real programmer.
