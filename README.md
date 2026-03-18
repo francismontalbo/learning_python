@@ -1,54 +1,98 @@
+# Python Learning Journey
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/65653238/212522749-e67eeb54-c942-4e35-a768-8374e61a5237.png"/>
-<h1 align="center">BECOMING A 👨‍💻 <b><i>HERO</i></b>
-<br>A 🐍ic Journey </br></p>
-<strong>Your ⭐ matters! Please do care to share one.</strong>
+A friendly, structured collection of Python notebooks for students who want to move from the fundamentals to object-oriented programming, testing, and practical Python techniques.
 
-<h4 align="center">By: Francis Jesmar P. Montalbo, DIT</h4>
+## Why this repository exists
 
-[![Python Version](https://img.shields.io/badge/Python-3.9%2B-green.svg)](https://www.python.org/downloads/release/python-390/) Prescribed version
+Learning Python is easier when concepts appear in a deliberate order, are revisited often, and are practiced with realistic examples. This repository is designed to help learners:
 
-## Greetings
+- build strong beginner habits early
+- connect new topics to earlier lessons
+- practice readable, professional Python
+- gain confidence through short examples before tackling bigger ideas
 
-<p>Welcome to your journey of becoming a Python programming hero!</p> 
-<p>This course is designed to give you a solid foundation in the Python programming language and its many advanced applications in the field of computer science and IT.🚀</p>
+## Who this is for
 
-<p>Throughout the course, you will learn the basics of Python programming, including data types, control structures, and functions. You will also delve into more advanced topics and other essentials that will supplement your coding needs.</p>
+This material is suitable for:
 
-<p>In addition to learning the technical aspects of Python, this course will also cover important computer science concepts such as algorithms, data structures, and complexity analysis. You will learn how to use Python to implement these concepts and will apply your knowledge to real-world problems and projects.🤔💻</p>
+- complete beginners
+- students reviewing classroom lessons
+- self-learners building a solid Python foundation
+- instructors who want notebook-based teaching materials
 
-<p>By the end of the course, you will have a strong understanding of the Python programming language and its advanced applications in computer science. You will be able to write efficient and effective code, and will be well prepared to continue your studies or enter the workforce as a computer scientist or developer.💼</p>
+## Course design principles
 
-## Course Outline (This is not final)
-- [x] Week 1: Introduction to Python: Installation and setup, Fundamental syntax, variables, and basic data types
-- [x] Week 2: Python Fundamentals
-- [x] Week 3: Python Built-in Data Structures and Collections with Casting
-- [x] Week 4: Flow Control: Conditions and Loops
-- [x] Week 5: Functions: User-defined, Lambda, Built-ins, Callbacks, and Higher-Order Functions
-- [x] Week 6: Python Exception Handling: Try, Except, Else, and Finally
-- [x] Week 7: OOP: Objects and Classes
-- [x] Week 8: Compositions, Aggregations, and Mixins
-- [x] Week 9: Encapsulation, Polymorphism, and Abstraction
-- [x] Week 10: Python File Handling with Python OS
-- [x] Week 11: Python Modules and the Main Function
-- [ ] Week 12: Python File Structuring for Projects
-- [ ] Week 13: Python Magic Methods
-- [ ] Week 14: Comprehensions
-- [ ] Week 15: More Python Techniques and Sample Projects with Libraries
-<!-- - [x] Week 7: OOP: Objects and Classes (Inner, multiple inner)
-- [x] Week 6: Recursion
-- [x] Week 8: OOP: Inheritance and Method Resolution Order
-- [x] Week 9: OOP: Inheritance, Association, Aggregation, Composition and Mixins
-- [x] Week 10: OOP: Encapsulation, Polymorphism, and Abstraction
-- [ ] Week 11: OOP: Python Magic or Dunder (Double Underscore "__") Methods
-- [ ] Week 12: Python Iterators
-- [ ] Week 13: Built-in and Custom Python Modules
-- [ ] Week 14: Python OS and File Handling
-- [ ] Week 15: Decorators and Wrappers
-- [ ] Week 16: Unit Testing
-- [ ] Week 17: Fundamental Algorithms and their Applications
-- [ ] Week 18: Additional Python Coding Techniques
-- [ ] Week 19: Pythonic Coding and Best Practices -->
+These notebooks were revised to be:
 
-##### NOTE: The course material is NOT updated regularly. Nontheless, it is based and will keep on basing on the current industry standards and practices.🚀
+1. **Gradual** — each notebook starts with simple ideas before adding complexity
+2. **Connected** — previous topics return in later notebooks so they stay fresh
+3. **Practical** — examples use realistic, beginner-safe scenarios
+4. **Readable** — code aims for clear naming, useful comments, and clean output
+5. **Encouraging** — explanations are supportive without lowering standards
+
+## Suggested learning path
+
+### Foundations
+- `week_1/0001_python_basics.ipynb` — Python syntax, variables, types, arithmetic, strings
+- `week_2/0002_collections.ipynb` — lists, tuples, sets, dictionaries, collection choice
+- `week_3/0003_ifelifelse.ipynb` — conditions and decision-making
+- `week_3/0003_truthyandfalsies.ipynb` — Boolean thinking and concise condition checks
+- `week_3/0003_Loops.ipynb` — repetition with `for` and `while`
+- `week_4/0004_Functions.ipynb` — reusable logic, parameters, return values, `*args`
+- `week_5/0005 recursion.ipynb` — recursive thinking and recursive problem-solving
+- `week_6/try_except.ipynb` — exceptions and safe error handling
+
+### Object-Oriented Programming
+- `week_7/0007 Objects and Classes.ipynb` — classes, objects, attributes, methods
+- `week_8/0008 Inheritance Basics.ipynb` — parent and child classes, `super()`
+- `week_9/association.ipynb` — related objects with meaningful links
+- `week_9/aggregation.ipynb` — larger objects using independently created parts
+- `week_9/composition.ipynb` — larger objects owning their parts directly
+- `week_9/mixin..ipynb` — focused shared behaviors with mixins
+- `week_x/encapsulation.ipynb` — controlled access to internal state
+- `week_x/polymorphism.ipynb` — shared interfaces across different objects
+- `week_x/abstraction.ipynb` — abstract base classes and required behavior
+
+### Reinforcement and Practice
+- `week_x2/unit_test.ipynb` — assertions, test cases, and test structure
+- `python_techniques.ipynb` — comprehensions and a few useful intermediate patterns
+
+## How to use the notebooks
+
+A good learning routine is:
+
+1. read the markdown explanation first
+2. run each code cell in order
+3. change at least one value in every major example
+4. write your own mini-variation before moving on
+5. revisit earlier notebooks after learning new topics
+
+## Recommended study habits
+
+- Keep a small coding journal with key takeaways.
+- Re-type some examples instead of only running them.
+- Predict the output before executing a code cell.
+- When confused, shrink the problem and test a tiny example.
+- Focus on understanding before speed.
+
+## Running the notebooks
+
+You can open the notebooks with:
+
+- Jupyter Notebook
+- JupyterLab
+- VS Code with the Jupyter extension
+- Google Colab after uploading the files
+
+Recommended Python version: **Python 3.9+**
+
+## Repository goals going forward
+
+This repository aims to keep improving its teaching quality by:
+
+- filling conceptual gaps between topics
+- strengthening practice prompts and review moments
+- using examples that remain readable and classroom-friendly
+- reinforcing professional habits, not just syntax memorization
+
+If you are using this repository to learn, take your time. Slow, careful practice is how strong programmers are made.
