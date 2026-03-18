@@ -70,6 +70,25 @@ For each notebook:
 
 That is how you stop being a passive reader and start becoming a programmer.
 
+
+## 🧩 Weekly practice notebooks
+
+To help students build problem-solving stamina—not just topic familiarity—the repository now includes a dedicated practice notebook for each week grouping. These are designed for review, exam preparation, debugging practice, and job-style thinking.
+
+- `week_1/0001_practice_python_basics.ipynb`
+- `week_2/0002_practice_collections.ipynb`
+- `week_3/0003_practice_control_flow.ipynb`
+- `week_4/0004_practice_functions.ipynb`
+- `week_5/0005_practice_recursion.ipynb`
+- `week_6/0006_practice_exceptions.ipynb`
+- `week_7/0007_practice_oop_basics.ipynb`
+- `week_8/0008_practice_inheritance.ipynb`
+- `week_9/0009_practice_relationships.ipynb`
+- `week_x/0010_practice_oop_design.ipynb`
+- `week_x2/0011_practice_unit_testing.ipynb`
+
+A good rhythm is to finish the lesson notebook first, then immediately attempt the matching practice notebook while the ideas are still fresh.
+
 ## 🛠️ Tools you can use to open the notebooks
 
 - Jupyter Notebook
